@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/Screens/HomeScreen.qml</file>
+        <file>ui/Screens/RecordingProcess/BeginSession.qml</file>
+        <file>ui/Screens/Settings.qml</file>
+        <file>ui/Screens/Instructions.qml</file>
+        <file>ui/Resources/SidePanel.qml</file>
+        <file>ui/Resources/StatusBar.qml</file>
+        <file>ui/test/test.qml</file>
+        <file>ui/Assets/WAL.png</file>
+        <file>ui/Resources/CustomButton.qml</file>
+        <file>ui/Screens/RecordingProcess/ConnectionCheck.qml</file>
+        <file>ui/Screens/RecordingProcess/CameraCheck.qml</file>
+        <file>ui/Screens/PastRecordings/PastRecordings.qml</file>
+        <file>ui/Screens/PastRecordings/RecordingDisplay.qml</file>
+    </qresource>
+</RCC>
